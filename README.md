@@ -14,7 +14,10 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open **Live demo:** [https://fsproject-9z4t-iota.vercel.app](https://fsproject-9z4t-iota.vercel.app)
+
+**Demo credentials:** `demo@task.com` / `123456`  
+*(Feel free to use these to explore the app without creating your own account.)*
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
