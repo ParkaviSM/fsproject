@@ -19,6 +19,8 @@ Open **Live demo:** [https://fsproject-9z4t-iota.vercel.app](https://fsproject-9
 **Demo credentials:** `demo@task.com` / `123456`  
 *(Feel free to use these to explore the app without creating your own account.)*
 
+**Demo video:** [Watch on Loom](https://www.loom.com/share/bbfda720f514425e8a62a1965320e8fa)
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
